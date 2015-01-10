@@ -3,11 +3,11 @@ Simple Pub/Sub Package for golang
 
 Create a new Publisher
 
+```go
 import (
     "github.com/REAANDREW/gopubsubio"
 )
 
-```go
 publisher := gopubsubio.NewPublisher()
 ```
 
