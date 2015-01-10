@@ -1,2 +1,2 @@
 # gopubsubio
-Simple Pub/Sub Packagefor golang
+Simple Pub/Sub Package for golang
